@@ -1,2 +1,2 @@
 # MySQl-Project
-This project is based on an online super shop where the user can view the Ngo Maintenance system, only Admin can view the employee information. A user can see consulting company providing syndicated as well as customized reports with precise analysis and future outlook.
+my project is __Music Database__ done by only MySQL on Microsoft SQL Management Studio 18 - __create , insert ,query are  all through sql scripts
